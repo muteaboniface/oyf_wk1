@@ -64,13 +64,3 @@ https://web.dev/learn/ →  find resources for me technologies you can learn
 GIT
 https://education.github.com/git-cheat-sheet-education.pdf   
 
-
-In case you have good resources that can be helpful to the team, please share with us on natujenge@meliora.tech.
-
-<h1>3. Future Work</h2> 
-Upcoming events:
-Q&A session(s) 
-We will have a Q & A session to help you get clarity on concepts that might not be clear. 
-Week 02 challenge - 
-It is important that you put in the required hours to make this initiative a success.
-
