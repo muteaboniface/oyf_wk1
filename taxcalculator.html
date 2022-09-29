@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>TAX CALCULATOR</title>
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style.css">
 	<link rel="icon" type="image/x-icon" href="resources/favicon1.svg">
 	
 </head>
@@ -14,27 +14,28 @@
 <body>
 
 <div >
-    <nav>
-        <ul>
-            <img class="logo" src="resources/logo.svg" alt="Natujenge"/>
-            <a class="home" href="#Home">Home</a>
-            <a class="bootcamp" href="https://www.meliora.co.ke/articles/nvrjgtnsgh5ophs6mm">Bootcamp</a>
-            <a class="link" href="#Team">Team</a>
-        </ul>
-        
+    <nav class="sticky-top ps-3 navbar">   
+            <a href="#natujenge"><img class="logo" src="resources/logo.svg" alt="Natujenge"/></a>
+            <ul class="links">
+                <a href="#Home">Home</a>
+                <a href="#AboutBootcamp">About Bootcamp</a>
+                <a href="#Team">Team</a>     
+            </ul>
+            
 
     </nav>
 </div>
 
 
 
-
+</br>
+</br>
 <div class = "main">
     <form>
         <legend><b>Gross Salary</b></legend>
-        <label for="flabel"><b>Ksh</b></label>
+        <label style="background-color: #E5E4E2;" for="flabel"><b>Ksh</b></label>
         <input type="text">
-        <input style="color:blue" type="submit" value="Submit">
+        <input style="color:#FFFFFF; background-color: #00A86B;" type="submit" value="Submit">
     
     </form>
 	<table id="t1">
@@ -86,7 +87,7 @@
     </table>
 
     <!--piechart-->
-    <span class="piechart pie"></span>
+    <!-- <span class="piechart pie"></span> -->
 </div>
 
 
