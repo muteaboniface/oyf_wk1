@@ -55,31 +55,3 @@ else
 {
     console.log('Below 20%');
 }
-
-//function to add categories to the form
-// Not needed at this point
-// function listFunction()
-// {
-//         if(count < 50)
-//         {
-//         let labelInput = document.createElement("input");
-//         labelInput.setAttribute("type", "text" );
-//         labelInput.setAttribute("name", "Bills");
-//         labelInput.setAttribute("placeholder", "bills");
-
-//         let amountInput= document.createElement("input");
-//         amountInput.setAttribute("type", "number");
-//         amountInput.setAttribute("name", "amount");
-//         amountInput.setAttribute("placeholder", "amount");
-//         amountInput.setAttribute("id", count)
-        
-//         let Linebreak = document.createElement("br");
-//         document.getElementById('bill-add').append(labelInput , amountInput);
-//         document.getElementById('bill-add').append(Linebreak);
-
-//         count++;
-//         }
-        
-//     }
-    
- 
